@@ -23,7 +23,7 @@ how to use API and event listener
   
   <tr>
     <td width="33.3%" valign="top">
-<a target="_blank" href=""https://pokemon-card-game-mathcing-e2n.netlify.app/">Pokemon-Matching-Card-Game</a>
+<a target="_blank" href="https://pokemon-api-e2n.netlify.app">Pokemon-Matching-Card-Game</a>
         <br />
       <a target="_blank" href="">
             <img src="https://imgur.com/a/YEZcElQ" width="100%"  alt="https://pokemon-api-e2n.netlify.app"/>
