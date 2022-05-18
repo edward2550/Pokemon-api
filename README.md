@@ -22,19 +22,18 @@ how to use API and event listener
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="33.3%" valign="top">
+   <td width="33.3%" valign="top">
 <a target="_blank" href="https://pokemon-api-e2n.netlify.app">Pokemon-Matching-Card-Game</a>
-        <br />
-      <a target="_blank" href="">
-            <img src="https://i.imgur.com/i1Ot3WN.png" width="100%"  alt="https://pokemon-api-e2n.netlify.app"/>    
-    </a>
-
-    </td>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="">project2</a>
       <br />
         <a target="_blank" href="">
-          <img src="" width="100%" alt="Travelara.org"/>
+          <img src="https://i.imgur.com/i1Ot3WN.png" width="100%" alt="https://pokemon-api-e2n.netlify.app"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="">Project2</a>
+      <br />
+        <a target="_blank" href="">
+          <img src="" width="100%" alt=""/>
         </a>
     </td>
     <td width="33.3%" valign="top">
